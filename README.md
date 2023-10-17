@@ -25,7 +25,7 @@ In conclusion, if you're a miner who values accuracy, efficiency, and ease of us
 
 Follow these steps to set up and add wallets to your ChivesWeave Multiple Wallets Tracker:
 
-**1. Download the GitHub files from the /app/ folder and place them on your server (cPanel, Plesk, PHP local server, etc).**
+**1. Download the GitHub files from the /app/ folder and place them on your server (cPanel, Plesk, Xampp, etc).**
 
 **2. Update wallet addresses inside the "wallets.txt" file. Each wallet address should be on a separate line.**
 
