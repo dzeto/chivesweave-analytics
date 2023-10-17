@@ -19,3 +19,16 @@ Key Features:
 In a world where cryptocurrency mining can be a complex and challenging endeavor, the ChivesWeave Multiple Wallets Tracker stands as a beacon of simplicity and efficiency. Say goodbye to the headaches of tracking your earnings manually and embrace a powerful tool that does the heavy lifting for you.
 
 In conclusion, if you're a miner who values accuracy, efficiency, and ease of use, the ChivesWeave Multiple Wallets Tracker is the ultimate solution for you. Experience the future of mining management and take your ChivesWeave earnings to the next level with this invaluable tool. Download it now and make the most out of your mining operations with confidence and ease.
+
+
+# How to Set Up and Add Wallets?
+
+Follow these steps to set up and add wallets to your ChivesWeave Multiple Wallets Tracker:
+
+**1. Download the GitHub files from the /app/ folder and place them on your server (cPanel, Plesk, PHP local server, etc).**
+
+**2. Update wallet addresses inside the "wallets.txt" file. Each wallet address should be on a separate line.**
+
+**3. Access the application by opening the "index.php" file in your web browser.**
+
+By following these simple instructions, you'll be able to get your ChivesWeave Multiple Wallets Tracker up and running in no time, providing you with a convenient and accurate way to monitor your mining operations.
