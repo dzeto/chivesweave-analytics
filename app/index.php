@@ -5,8 +5,8 @@
 </head>
 <img src="avocado.png" />
 <?php
-// Read the seznam.txt file line by line
-$filename = 'seznam.txt';
+// Read the wallets.txt file line by line
+$filename = 'wallets.txt';
 $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 
 if ($lines === false) {
