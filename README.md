@@ -33,3 +33,7 @@ Follow these steps to set up and add wallets to your ChivesWeave Multiple Wallet
 **3. Access the application by opening the "index.php" file in your web browser.**
 
 By following these simple instructions, you'll be able to get your ChivesWeave Multiple Wallets Tracker up and running in no time, providing you with a convenient and accurate way to monitor your mining operations.
+
+# Inaccurate USD Values (!)
+Please note that the USD values currently displayed are not accurate. This discrepancy arises from the fact that the XWE coin is not yet listed on any market, making the price per token unknown.
+We will ensure that correct values are promptly updated as soon as ChivesWeave is listed on its first market. Thank you for your understanding, and we look forward to providing you with accurate and up-to-date information once it becomes available.
