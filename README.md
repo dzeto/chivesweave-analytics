@@ -1,4 +1,5 @@
 # Multiple Wallets Tracker for XWE ChivesWeave miners
+![app-preview](https://github.com/dzeto/chivesweave-analytics/assets/114115168/f021f728-810f-44a4-b176-c49ee6cf080d)
 
 Are you a XWE cryptocurrency miner who operates multiple machines and wallet addresses, seeking an efficient and reliable way to track your balances and rewards? Look no further! Introducing the ChivesWeave Multiple Wallets Tracker – a robust and user-friendly tool that simplifies the monitoring of your ChivesWeave earnings and provides you with a comprehensive overview of your mining operations.
 
