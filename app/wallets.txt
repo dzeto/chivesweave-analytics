@@ -1,0 +1,4 @@
+https://api.chivesweave.net/wallet/[yourwallet-1]/balance
+https://api.chivesweave.net/wallet/[yourwallet-1]/reserved_rewards_total
+https://api.chivesweave.net/wallet/[yourwallet-2]/balance
+https://api.chivesweave.net/wallet/[yourwallet-2]/reserved_rewards_total
